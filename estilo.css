@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+.padaria{
+    text-align: center;
+}
+.oque{
+    border-top: #F7A156 2px solid;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+a{
+    color: black;
+}
+.logo{
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.comidas{
+margin-left: 25%;
+ width: 50%;
+ background-color:  #F7A156;
+}
+
+.paes{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.bolos{
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.hproduto, .hpao, .hbolo, .pbolo, .ppao{
+    color: aliceblue;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.hbolo, .hpao{
+    font-size: 30px;
+}
+
+a, h1, h2, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.pabo{
+    font-size: 25px;
+}
+
+h2{
+    font-size: medium
+}
+
+.lugar{
+    color: orange;
+}
